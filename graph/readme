@@ -1,0 +1,10 @@
+Execute:
+	./graph [file]
+
+Use:
+	option:
+		D [location name]: DFS from location name.
+		B [location name]: BFS from location name.
+		M [location name]: Kruskal alg.
+		q 				 : quit.
+		
